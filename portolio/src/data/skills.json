@@ -16,8 +16,8 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "MySQL",
-    "imageSrc": "skills/mysql.png"
+    "title": "Flask",
+    "imageSrc": "skills/flask.png"
   },
   {
     "title": "Gradle",
@@ -26,5 +26,13 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
   }
 ]

@@ -17,20 +17,22 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Full-stack Development</h3>
               <p>
-                I'm a budding frontend developer, I specialize in crafting responsive 
-                and optimized websites.
+                Skilled in full-stack development, I excel in creating dynamic and responsive web 
+                applications that seamlessly integrate frontend and backend components to deliver 
+                exceptional user experiences.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Software Engineering</h3>
               <p>
-              I offer solid backend development skills, proven through practical projects and 
-              academic training, ensuring reliable and efficient systems and APIs.
+                As a software engineer, I embrace the challenge of developing scalable and efficient 
+                solutions, drawing on my blend of technical prowess and business insights to deliver 
+                innovative software products.
               </p>
             </div>
           </li>

@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Typing Tutor Game",
+    "imageSrc": "projects/tt.png",
+    "description": "Enhanced a multithreaded educational 'Typing Tutor' game coded in Java to incorporate thread synchronization and additional features.",
+    "skills": ["Java", "Concurrency", "Thread Synchronization"],
+    "demo": "link to demo web",
+    "source": "https://github.com/NtandoMgo/Multithreaded-Typing-Tutor-Enhancement"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Image filter(blurr)",
+    "imageSrc": "projects/filter.png",
+    "description": "Implemented parallel algorithms for smoothing RGB color images using mean and median filters. Experimentally benchmarked the algorithms across different image and filter sizes to determine optimal parallelization conditions.",
+    "skills": ["Java", "Parallel Programming", "Java Fork/Join Framework"],
+    "demo": "link to demo web",
+    "source": "https://github.com/NtandoMgo/ParallelVsSequentialPixels"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Weather Comparison App",
+    "imageSrc": "projects/weather.png",
+    "description": "A Python application built with Tkinter that allows users to compare weather between two cities. It fetches weather data from the OpenWeatherMap API and displays the temperature and description for each city.",
+    "skills": ["Python", "Tkinter", "API Integration"],
+    "demo": "link to demo web",
+    "source": "https://github.com/NtandoMgo/tkinter-weather-dashboard/blob/main/weather_app.py"
   }
 ]
